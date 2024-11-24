@@ -11,3 +11,10 @@ This repository contains two projects related to operating systems:
 
 ### Overview
 This project involves customizing the xv6 operating system by adding new system calls. It demonstrates extending the functionality of a Unix-based OS kernel.
+
+---
+
+## Project2: File Handling
+
+### Overview
+This project involves applying various concurrent operations on the files.
